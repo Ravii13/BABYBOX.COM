@@ -109,7 +109,7 @@ ul li.active a{
     margin-top: 100px;
     height: 400px;
     width: 450px;
-    margin-left: 170px;
+    margin-left: 150px;
     animation: appear_right both;
     animation-timeline: view();
     animation-range: entry 0% cover 30%;
@@ -153,7 +153,7 @@ ul li.active a{
 
 .back1 h2{
     margin-top: 120px;
-    margin-left: 170px;
+    margin-left: 150px;
     font-weight: lighter;
     text-align-last: auto;
     font-size: 20px;
@@ -164,7 +164,7 @@ ul li.active a{
     color: #fff;
     font-size: large;
     padding: 10px;
-    margin-left: 75px;
+    margin-left: 100px;
     margin-top: 30px;
     text-decoration: none;
     border-radius: 10px;
