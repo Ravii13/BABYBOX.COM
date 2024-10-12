@@ -83,7 +83,7 @@ ul li.active a{
     position: absolute;
     margin: 20px 20px 20px -20px;
     margin-top: 225px;
-    margin-left: 220px;
+    margin-left: 250px;
     transform: translate(-40%,-40%);
     align-items: center;
     color: rgb(254, 252, 252);
@@ -109,7 +109,7 @@ ul li.active a{
     margin-top: 100px;
     height: 400px;
     width: 450px;
-    margin-left: 200px;
+    margin-left: 170px;
     animation: appear_right both;
     animation-timeline: view();
     animation-range: entry 0% cover 30%;
@@ -145,7 +145,7 @@ ul li.active a{
 }
 .text1{
     margin-top: 140px;
-    margin-left: 150px;
+    margin-left: 130px;
     height:70%;
     width:50%;
     font-size:medium;
