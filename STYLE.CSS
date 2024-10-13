@@ -516,6 +516,13 @@ iframe{
     margin-right: 20px;
 }
 
+.Top p{
+    border-color: white;
+    background-color: white;
+    font-size: 20px;
+    color: black;
+}
+
 /* GET IN TOUCH  */
 
 .follow-us {
