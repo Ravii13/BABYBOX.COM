@@ -5,6 +5,7 @@
     padding:0px;
     font-family:'#ddd';
     scroll-behavior: smooth;
+    overflow-y: hidden;
 }
 
 header{
@@ -83,7 +84,7 @@ ul li.active a{
     position: absolute;
     margin: 20px 20px 20px -20px;
     margin-top: 225px;
-    margin-left: 230px;
+    margin-left: 200px;
     transform: translate(-40%,-40%);
     align-items: center;
     color: rgb(254, 252, 252);
