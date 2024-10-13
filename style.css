@@ -516,6 +516,13 @@ iframe{
     margin-right: 20px;
 }
 
+.Top p{
+    border-color: white;
+    background-color: white;
+    font-size: 20px;
+    color: black;
+}
+
 /* GET IN TOUCH  */
 
 .follow-us {
@@ -525,7 +532,7 @@ iframe{
     text-align: center;
     border: 4px solid #6b5e5e;
     border-radius: 10px;
-    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    margin-top:3px
 }
 
 .follow-us span{
