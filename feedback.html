@@ -85,13 +85,16 @@
             <p>
                 Feel free to drop us a line below!
             </p>
-            <input placeholder="Full Name" type="text" required>
-            <input placeholder="Email" type="email" required>
-            <input placeholder="Mobile No." type="text" required>
-            <textarea placeholder="Message"></textarea>
-            <button>
-                Send Message
-            </button>
+            <form action="https://api.web3forms.com/submit" method="POST">
+                <input type="hidden" name="access_key" value="29b82158-20de-4c72-97a6-b076e06cf508"/>
+                <input placeholder="Full Name" type="text" required name="first_name">
+                <input placeholder="Email" type="email" required  name="email"x>
+                <input placeholder="Mobile No" type="text" required  name="phone"/>
+                <textarea placeholder="Message" required  name ="message"></textarea >
+                <button>
+                    Send Message
+                </button>
+            </form>
         </div>
     </div>
 </body>
